@@ -36,8 +36,6 @@ In this project, we use PySpark to explore and analyze a real estate dataset fro
    - **Goal:** Understand how SQL queries translate to PySpark code.
    - **Concepts:** `createOrReplaceTempView`, `spark.sql`, `select`, `filter`, `agg`.
 
-## Getting Started
-
 ## Steps to Use This Project on Kaggle:
 
 1. **Download the Notebook**:
