@@ -48,7 +48,7 @@ In this project, we use PySpark to explore and analyze a real estate dataset fro
 
 3. **Dataset Setup**:
    - Upload the dataset to Kaggle or add it on the right panel in your Notebook `(https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset)`.
-   - Additionally you can find the dataset on this repository.
+   -Unfortunately, the dataset is too large to upload to this repository.
 
 5. **Run the Notebook**:
    - Execute the cells in the notebook sequentially.
