@@ -54,4 +54,4 @@ In this project, we use PySpark to explore and analyze a real estate dataset fro
    - Execute the cells in the notebook sequentially.
    - Explore and modify the code to deepen your understanding of PySpark concepts.
 
-This project is an point for anyone looking to get hands-on experience with PySpark. It covers data cleaning, transformation, visualization, and even basic machine learning, all within the PySpark framework.
+This project is an starting point for anyone looking to get hands on experience with PySpark. It covers data cleaning, transformation, visualization, and even basic machine learning, all within the PySpark framework.
