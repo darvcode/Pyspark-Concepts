@@ -55,3 +55,8 @@ In this project, we use PySpark to explore and analyze a real estate dataset fro
    - Explore and modify the code to deepen your understanding of PySpark concepts.
 
 This project is an starting point for anyone looking to get hands on experience with PySpark. It covers data cleaning, transformation, visualization, and even basic machine learning, all within the PySpark framework.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
